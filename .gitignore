@@ -155,3 +155,5 @@ cython_debug/
 .ppt
 .pptx
 .pdf
+/input_pdf
+/output_pdf
